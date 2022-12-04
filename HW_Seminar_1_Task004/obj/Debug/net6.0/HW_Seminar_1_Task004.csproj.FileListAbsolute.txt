@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\HW_Seminar_1_Task004.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\HW_Seminar_1_Task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\HW_Seminar_1_Task004.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\HW_Seminar_1_Task004.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\HW_Seminar_1_Task004.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\bin\Debug\net6.0\HW_Seminar_1_Task004.exe
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\bin\Debug\net6.0\HW_Seminar_1_Task004.deps.json
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\bin\Debug\net6.0\HW_Seminar_1_Task004.runtimeconfig.json
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\bin\Debug\net6.0\HW_Seminar_1_Task004.dll
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\bin\Debug\net6.0\HW_Seminar_1_Task004.pdb
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\HW_Seminar_1_Task004.dll
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\refint\HW_Seminar_1_Task004.dll
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\HW_Seminar_1_Task004.pdb
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\HW_Seminar_1_Task004.genruntimeconfig.cache
+C:\Users\user\Desktop\Homework_C#\HW_Seminar_1_Task004\obj\Debug\net6.0\ref\HW_Seminar_1_Task004.dll
